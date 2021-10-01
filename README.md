@@ -11,7 +11,7 @@ The analysis consists of the following:
 - The design for a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers
 
 ## Deliverable 1: Multiple Linear Regression to Predict MPG
-![Multiple_Linear_Regression](deliverable1_multiple_linear_regression.png)
+![Multiple_Linear_Regression](https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable1_multiple_linear_regression.png)
 ### Questions
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - 
