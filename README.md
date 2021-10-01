@@ -11,17 +11,19 @@ The analysis consists of the following:
 - The design for a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers
 
 ## Deliverable 1: Multiple Linear Regression to Predict MPG
+
+### Results
+
 <p align="center">Results of Multiple Linear Regression</p>
 
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable1_multiple_linear_regression.png" width="500" height="300" alt="Results of Multiple Linear Regression" /></p>
-
-### Questions
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-  - 
-Is the slope of the linear model considered to be zero? Why or why not?
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+## Results Summary
+- Accoring to the results, the vehicle weight and ground clearance (as well as intercept) provided a non-random amount of variance to the mpg values in the dataset. This suggests that vehicle weight and ground clearance have a significant effect on the mpg. Due to the significant intercept, we may want to consider scaling or tranforming the data. There may also be other variables we haven't considered that we may need to include in the data.
+- The slope of our linear model is not 0 as the p-value is 5.35e-11, which far less than our assumed significance level of 0.05%. There is sufficient evidence to reject the null hypothesis.
+- The linear model seems to predict the mpg of MechaCar prototypes with about 71% confidence as the R-squared value was 0.7149; however, as stated earlier, due to the significant intercept, we may want to transform the data and re-run the analysis or consider other variables and inclue them in the analysis.
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
+
 
 ## Deliverable 3: T-Test on Suspension Coils
 
