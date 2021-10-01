@@ -13,7 +13,7 @@ The analysis consists of the following:
 ## Deliverable 1: Multiple Linear Regression to Predict MPG
 <p align="center">Results of Multiple Linear Regression</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable1_multiple_linear_regression.png" width="200" height="200" alt="Results of Multiple Linear Regression" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable1_multiple_linear_regression.png" width="500" height="300" alt="Results of Multiple Linear Regression" /></p>
 
 ### Questions
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
