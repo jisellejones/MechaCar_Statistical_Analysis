@@ -10,5 +10,16 @@ The analysis consists of the following:
 - T-tests to determine if the manufacturing lots are statistically different from the mean population
 - The design for a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers
 
-## Multiple Linear Regression to Predict MPG
+## Deliverable 1: Multiple Linear Regression to Predict MPG
+![Multiple_Linear_Regression](deliverable1_multiple_linear_regression.png)
+### Questions
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+  - 
+Is the slope of the linear model considered to be zero? Why or why not?
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+## Deliverable 2: Summary Statistics on Suspension Coils
+
+## Deliverable 3: T-Test on Suspension Coils
+
+## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
