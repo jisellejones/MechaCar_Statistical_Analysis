@@ -53,7 +53,7 @@ We see from the data that the p-value is 0.06028 this is higher than our assumed
 
 <p align="center"><img class="centerImage" src="" width="600" height="476" alt="T-Test of All Data PSI against Mean of 1500" /></p>
 
-Looking at all each lot individually, we can see the p-value is equal to 1. We do not need to reject the null hypothesis. We can be nearly certain that the mean of Lot 1 is 1500 PSI.
+Looking at all each lot individually, we can see the p-value is equal to 1 while the p-value of lot 2 is 0.6072. We do not need to reject the null hypothesis for either Lot 1 or Lot 2. We can be nearly certain that the means of both lots are 1500 PSI. The p-value for Lot 3, however, is 0.04168. This is less than our assumed significance level of 0.05, so we must reject the null hypothesis for Lot 3. There is a statistical difference between the mean PSI of lot 3 and 1500 PSI.
 
 <p align="center">T-Test Results of PSI of Lots 1, 2, and 3 against Mean of 1500 PSI</p>
 
