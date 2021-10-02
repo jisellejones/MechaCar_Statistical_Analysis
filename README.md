@@ -77,15 +77,19 @@ T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 
 ### Questions addresssed by study
 
 - What metric or metrics are you going to test?
+
 Our market data shows that the consumers of AutoRU are concerned first with vehicle safety. With that in mind, this analysis will be designed to consider various safety ratings.
 
 - What is the null hypothesis or alternative hypothesis?
+
 **Null hypothesis:** MechaCar performs as well as or worse than its competitors in vehicle safety.
 
 **Alternate hypothesis:** MechaCar performs better than its competitors in vehicle safety.
 
 - What statistical test would you use to test the hypothesis? And why?
+
 Since the rating systems uses categorical values (Good, Acceptable, Marginal, Poor and Superior, Advanced, Basic) and we are considering how the MechaCar performs against competitors, we will run ANOVA against the MechaCar and its competitors as well as a Chi-Squared Test.
 
 - What data is needed to run the statistical test?
+
 We will need various ratings like the insurance-industry crash-test ratings, government crash-test ratings, electronic stability control (ESC), rollover resistance, antilock brake system (ABS), accident avoidance, air bags, safety-belt features, head restraints, and child safety features (*these features were derived from consumerratings.org*).
