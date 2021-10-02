@@ -74,7 +74,7 @@ T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 
 
 ## Deliverable 4: Study Design MechaCar vs Competition
 
-### Questions addresssed by study
+### Questions addressed by study
 
 - What metric or metrics are you going to test?
 
