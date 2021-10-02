@@ -2,7 +2,16 @@
 
 ## Purpose
 
-The purpose of this analysis is to help AutosRU (an imaginary company) identify variables in production are hindering the manufacturing team's progress in developing their newest prototype, the MechaCar. In this anlyasis, we review production data for insights that may help the manufacturing team.
+The purpose of this analysis is to help AutosRU (an imaginary company) identify variables in production are hindering the manufacturing team's progress in developing their newest prototype, the MechaCar. In this anlyasis, we review production data for insights that may help the manufacturing team. The end of the analysis proposes a new research design to compare the MechaCar against its competitors.
+
+## Data Source
+  - MechaCar Data: From the University of Oregon Data BootCamp
+  - Suspension Coil Data: From the University of Oregon Data BootCamp
+
+## Software
+- R version 4.1.1 (2021-08-10) -- "Kick Things"
+
+## Analysis
 
 The analysis consists of the following:
 - Multiple linear regression to predict mpg of MechaCar prototypes
@@ -68,13 +77,15 @@ T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 
 ### Questions addresssed by study
 
 - What metric or metrics are you going to test?
+Our market data shows that the consumers of AutoRU are concerned first with vehicle safety. With that in mind, this analysis will be designed to consider various safety ratings.
 
-Our market data shows that the consumers of AutoRU are concerned first with vehicle safety. With that in mind, this analysis will be designed to consider various safety ratings like the insurance-industry crash-test ratings, government crash-test ratings, electronic stability control (ESC), rollover resistance, antilock brake system (ABS), accident avoidance, air bags, safety-belt features, head restraints, and child safety features (*these features were derived from consumerratings.org).
+- What is the null hypothesis or alternative hypothesis?
+**Null hypothesis:** MechaCar performs as well as or worse than its competitors in vehicle safety.
 
--What is the null hypothesis or alternative hypothesis?
-Null hypothesis: MechaCar performs as well as or worse than its competitors in all variables.
+**Alternate hypothesis:** MechaCar performs better than its competitors in vehicle safety.
 
-Alternat hypothesis: MechaCar performs better than its competitors in all variables
+- What statistical test would you use to test the hypothesis? And why?
+Since the rating systems uses categorical values (Good, Acceptable, Marginal, Poor and Superior, Advanced, Basic) and we are considering how the MechaCar performs against competitors, we will run ANOVA against the MechaCar and its competitors as well as a Chi-Squared Test.
 
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+- What data is needed to run the statistical test?
+We will need various ratings like the insurance-industry crash-test ratings, government crash-test ratings, electronic stability control (ESC), rollover resistance, antilock brake system (ABS), accident avoidance, air bags, safety-belt features, head restraints, and child safety features (*these features were derived from consumerratings.org*).
