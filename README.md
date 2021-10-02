@@ -47,9 +47,20 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_boxplot.png" width="600" height="476" alt="PSI of Suspension Coils at Individual Lots" /></p>
 
 ## Deliverable 3: T-Test on Suspension Coils
-We see from the data that the p-value is 0.06028 this is higher than our assumed value of 0.05, so we do not need to reject our null hypothesis.
+We see from the data that the p-value is 0.06028 this is higher than our assumed value of 0.05, so we do not need to reject our null hypothesis. 
 
 <p align="center">T-Test of All Data PSI against Mean of 1500</p>
 
 <p align="center"><img class="centerImage" src="" width="600" height="476" alt="T-Test of All Data PSI against Mean of 1500" /></p>
+
+Looking at all each lot individually, we can see the p-value is equal to 1. We do not need to reject the null hypothesis. We can be nearly certain that the mean of Lot 1 is 1500 PSI.
+
+<p align="center">T-Test Results of PSI of Lots 1, 2, and 3 against Mean of 1500 PSI</p>
+
+T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 3 |
+:-------------------------:|:-------------------------:|:-------------------------:
+<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 1 PSI against Mean of 1500" />| 
+
+
+
 ## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
