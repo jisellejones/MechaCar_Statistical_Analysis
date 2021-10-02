@@ -59,7 +59,7 @@ Looking at all each lot individually, we can see the p-value is equal to 1. We d
 
 T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 3 |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 1 PSI against Mean of 1500" />| 
+<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 1 PSI against Mean of 1500" />|<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 2 PSI against Mean of 1500" />|<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 3 PSI against Mean of 1500" />
 
 
 
