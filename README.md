@@ -32,13 +32,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 <p align="center">Summary Table for All Lots</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_total_summary.png" width="500" height="98" alt="Summary Data Table for All Lots" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_total_summary.png" width="400" height="78" alt="Summary Data Table for All Lots" /></p>
 
 - When considering each lot individually, we see an exaggerated variance in lot 3 of 170 PSI with a standard deviation of 13.04 as can be seen in the "Summary Table for Individual Lots".
 
 <p align="center">Summary Table for Individual Lots</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_lot_summary.png" width="400" height="78" alt="Summary Table for Individual Lots" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_lot_summary.png" width="500" height="112" alt="Summary Table for Individual Lots" /></p>
 
 ## Results
 The tables 
