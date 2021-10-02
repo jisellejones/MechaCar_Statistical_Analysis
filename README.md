@@ -63,4 +63,18 @@ T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 
 
 
 
-## Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+## Deliverable 4: Study Design MechaCar vs Competition
+
+### Questions addresssed by study
+
+- What metric or metrics are you going to test?
+
+Our market data shows that the consumers of AutoRU are concerned first with vehicle safety. With that in mind, this analysis will be designed to consider various safety ratings like the insurance-industry crash-test ratings, government crash-test ratings, electronic stability control (ESC), rollover resistance, antilock brake system (ABS), accident avoidance, air bags, safety-belt features, head restraints, and child safety features (*these features were derived from consumerratings.org).
+
+-What is the null hypothesis or alternative hypothesis?
+Null hypothesis: MechaCar performs as well as or worse than its competitors in all variables.
+
+Alternat hypothesis: MechaCar performs better than its competitors in all variables
+
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
