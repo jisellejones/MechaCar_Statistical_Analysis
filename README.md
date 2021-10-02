@@ -44,14 +44,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 <p align="center">PSI of Suspension Coils at Individual Lots</p>
 
-<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_boxplot.png" width="600" height="476" alt="PSI of Suspension Coils at Individual Lots" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_boxplot.png" width="400" height="317" alt="PSI of Suspension Coils at Individual Lots" /></p>
 
 ## Deliverable 3: T-Test on Suspension Coils
 We see from the data that the p-value is 0.06028 this is higher than our assumed value of 0.05, so we do not need to reject our null hypothesis. 
 
 <p align="center">T-Test of All Data PSI against Mean of 1500</p>
 
-<p align="center"><img class="centerImage" src="" width="600" height="476" alt="T-Test of All Data PSI against Mean of 1500" /></p>
+<p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable3_t_test_all_data.png" width="500" height="229" alt="T-Test of All Data PSI against Mean of 1500" /></p>
 
 Looking at all each lot individually, we can see the p-value is equal to 1 while the p-value of lot 2 is 0.6072. We do not need to reject the null hypothesis for either Lot 1 or Lot 2. We can be nearly certain that the means of both lots are 1500 PSI. The p-value for Lot 3, however, is 0.04168. This is less than our assumed significance level of 0.05, so we must reject the null hypothesis for Lot 3. There is a statistical difference between the mean PSI of lot 3 and 1500 PSI.
 
