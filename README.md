@@ -59,7 +59,7 @@ Looking at all each lot individually, we can see the p-value is equal to 1 while
 
 T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 3 |
 :-------------------------:|:-------------------------:|:-------------------------:
-<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 1 PSI against Mean of 1500" />|<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 2 PSI against Mean of 1500" />|<img class="centerImage" src="" width="" height="" alt="T-Test of Lot 3 PSI against Mean of 1500" />
+<img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable3_t_test_lot_1.png" width="" height="" alt="T-Test of Lot 1 PSI against Mean of 1500" />|<img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable3_t_test_lot_2.png" width="" height="" alt="T-Test of Lot 2 PSI against Mean of 1500" />|<img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable3_t_test_lot_3.png" width="" height="" alt="T-Test of Lot 3 PSI against Mean of 1500" />
 
 
 
