@@ -30,7 +30,7 @@ The analysis consists of the following:
 ## Results Summary for deliverable 1
 - Accoring to the results, the vehicle weight and ground clearance (as well as intercept) provided a non-random amount of variance to the mpg values in the dataset. This suggests that vehicle weight and ground clearance have a significant effect on the mpg. Due to the significant intercept, we may want to consider scaling or tranforming the data. There may also be other variables we haven't considered that we may need to include in the data.
 - The slope of our linear model is not 0 as the p-value is 5.35e-11, which far less than our assumed significance level of 0.05%. There is sufficient evidence to reject the null hypothesis.
-- The linear model seems to predict the mpg of MechaCar prototypes with about 71% confidence as the R-squared value was 0.7149; however, as stated earlier, due to the significant intercept, we may want to transform the data and re-run the analysis or consider other variables and inclue them in the analysis.
+- The linear model seems to predict the mpg of MechaCar prototypes with about 71% confidence as the R-squared value was 0.7149; however, as stated earlier, due to the significant intercept, we may want to transform the data and re-run the analysis or consider other variables and include them in the analysis.
 
 ## Deliverable 2: Summary Statistics on Suspension Coils
 
