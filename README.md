@@ -19,7 +19,7 @@ The analysis consists of the following:
 - T-tests to determine if the manufacturing lots are statistically different from the mean population
 - The design for a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers
 
-## Deliverable 1: Multiple Linear Regression to Predict MPG
+## Multiple Linear Regression to Predict MPG
 
 ### Results of deliverable 1
 
@@ -32,7 +32,7 @@ The analysis consists of the following:
 - The slope of our linear model is not 0 as the p-value is 5.35e-11, which far less than our assumed significance level of 0.05%. There is sufficient evidence to reject the null hypothesis.
 - The linear model seems to predict the mpg of MechaCar prototypes with about 71% confidence as the R-squared value was 0.7149; however, as stated earlier, due to the significant intercept, we may want to transform the data and re-run the analysis or consider other variables and include them in the analysis.
 
-## Deliverable 2: Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 ## Question asked for deliverable 2 analysis
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -55,7 +55,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 <p align="center"><img class="centerImage" src="https://github.com/jisellejones/MechaCar_Statistical_Analysis/blob/main/Images/deliverable2_PSI_boxplot.png" width="400" height="317" alt="PSI of Suspension Coils at Individual Lots" /></p>
 
-## Deliverable 3: T-Test on Suspension Coils
+## T-Test on Suspension Coils
 We see from the data that the p-value is 0.06028 this is higher than our assumed value of 0.05, so we do not need to reject our null hypothesis. 
 
 <p align="center">T-Test of All Data PSI against Mean of 1500</p>
@@ -72,7 +72,7 @@ T-Test Results of Lot 1    |  T-Test Results of Lot 2  |  T-Test Results of Lot 
 
 
 
-## Deliverable 4: Study Design MechaCar vs Competition
+## Study Design MechaCar vs Competition
 
 ### Questions addressed by study
 
